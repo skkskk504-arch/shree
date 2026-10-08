@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-image:url("sun.jpg");
    background-repeat:no-repeat;
@@ -39,3 +40,133 @@ transform:scale(1.2);
     
 
 }
+=======
+.head{
+    background-color:rgb(211, 106, 106);
+}
+.image{
+    height:500px;
+    width:100%;
+    
+}
+.card{
+    text-align:left;
+    color:rgb(51, 55, 157);
+    text-shadow:2px 2px 3px red;
+}
+.hold{
+    color:rgb(143, 31, 83);
+}
+.read{
+    background-color:rgb(145, 26, 26);
+    padding:10px;
+    border-radius:7px;
+    font-size:20px;
+    color:white;
+    box-shadow:2px 2px 3px black;
+
+}
+.page{
+    background-color:cornsilk;
+    padding:10px;
+    border-radius:20px;
+    box-shadow:2px 2px 3px black;
+   display:block;
+   margin-left:50%;
+   margin-top:20px;
+   font-size:15px;
+   
+}
+.page:hover{
+    background-color:rgb(87, 147, 182);
+    color:rgb(192, 86, 86);
+    transition: 0.1em;
+    transform:scale(1.1);
+}
+.practice{
+    background-color:rgb(87, 147, 182);
+    text-align:center;
+padding:10px;
+}
+.bar{
+    
+    text-align:center;
+    padding: 10px;
+    display:flex;
+    gap:30px;
+    justify-content:center;
+    padding:5px;
+
+    }
+    .home{
+        background-color:rgb(87, 147, 182);
+        padding:10px;
+
+    }
+    .gallery{
+        background-color:rgb(197, 47, 47);
+        padding:10px;
+
+    }
+    .contacts{
+        background-color:rgb(72, 220, 144);
+        padding:10px;
+
+    }
+    button{
+        border-radius:10px;
+        font-size:15px;
+        font-weight:bold;
+    }
+    .second{
+        background-color:teal;
+    }
+    .hom{
+        background-color:rgb(87, 147, 182);
+        border-radius:10px;
+        padding:4px;
+        color:white;
+    }
+  .gal{
+
+    gap:10px;
+    margin-top:20px;
+    background-color:rgb(87, 147, 182);
+  }
+  .g1{
+    height:200px;
+    width:200px;
+  }
+  .g2{
+    height:200px;
+    width:200px;
+  }
+  .im{
+    display:flex;
+    gap:50px;
+    margin-left:40px;
+  }
+  .contact{
+    background-color:rgb(72, 220, 144);
+    padding:10px;
+    border-radius:10px;
+    color:white;
+    margin-top:20px;
+    color:rgb(125, 115, 218);
+  }
+  .text{
+    text-align:center;
+    font-size:30px;
+    color:rgb(49, 212, 84);
+    background-image:url("img1.jpg");
+    padding:10px;
+    
+  }
+  .tag{
+    background-image:url("img2.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+  }
+
+  
+>>>>>>> 9505fe3fcf890c7f698b8bb11f27a32ab722595b
